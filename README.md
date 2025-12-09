@@ -1,7 +1,8 @@
 <div class="header" align="center">  
-<img alt="Delta-V Logo" width="128" height="128" src="https://raw.githubusercontent.com/Floof-Station/Panta-Rhei/master/Resources/Textures/Logo/logo.png" />
-<!-- <img alt="Delta-V Banner" width="512" height="126" src="https://raw.githubusercontent.com/Floof-Station/Panta-Rhei/master/Resources/Textures/Logo/banner.png" /> -->
+<img alt="Panta Rhei Logo" width="128" height="128" src="https://raw.githubusercontent.com/Floof-Station/Panta-Rhei/master/Resources/Textures/Logo/logo.png" />
 </div>
+
+## Panta Rhei is the code name of the endeavor to rebase [Floof Station](https://github.com/Floof-Station/Floof-Station) on top of [Delta-V](https://github.com/DeltaV-Station/Delta-v).
 
 Panta Rhei is a fork of [Delta-V](https://github.com/DeltaV-Station/Delta-v), which is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14), embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine.
 
